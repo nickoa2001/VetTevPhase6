@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root identifier="Stores.Objects" version="1" mode="6" name="" className="" groupName="" objectType="0" selected="True">
+	<properties />
+	<children>
+		<child name="Button(&quot;Yes&quot;)" className="Button" groupName="" objectType="2" selected="True">
+			<properties>
+				<property name="Caption" category="Extended" type="2" kind="0" selected="True" basic="True" value="Yes" />
+				<property name="ChildCount" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="ControlId" type="1" kind="0" selected="True" basic="True" value="6" />
+				<property name="Default" category="Extended" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Description" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Exists" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Focused" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="FullName" type="2" kind="0" selected="True" basic="True" value="Sys.Process(&quot;vettev&quot;).Dialog(&quot;Deleting&quot;).Button(&quot;Yes&quot;)" />
+				<property name="Handle" type="1" kind="0" selected="True" basic="True" value="926220" />
+				<property name="Height" type="1" kind="0" selected="True" basic="True" value="23" />
+				<property name="Id" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="Index" type="1" kind="0" selected="True" basic="True" value="1" />
+				<property name="Left" type="1" kind="0" selected="True" basic="True" value="119" />
+				<property name="MappedName" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="Name" type="2" kind="0" selected="True" basic="True" value="Button(&quot;Yes&quot;)" />
+				<property name="ObjectGroupIndex" category="Extended" type="1" kind="0" selected="True" basic="True" value="1" />
+				<property name="ObjectIdentifier" category="Extended" type="2" kind="0" selected="True" basic="True" value="Yes" />
+				<property name="ObjectState" category="Extended" type="2" kind="0" selected="True" basic="True" value="focusable" />
+				<property name="ObjectType" category="Extended" type="2" kind="0" selected="True" basic="True" value="Button" />
+				<property name="Pressed" category="Extended" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="ReadOnly" category="Extended" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="ScreenLeft" type="1" kind="0" selected="True" basic="True" value="934" />
+				<property name="ScreenTop" type="1" kind="0" selected="True" basic="True" value="585" />
+				<property name="Top" type="1" kind="0" selected="True" basic="True" value="114" />
+				<property name="Unicode" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Value" category="Extended" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="VisibleOnScreen" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Width" type="1" kind="0" selected="True" basic="True" value="75" />
+				<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="&amp;Yes" />
+				<property name="WndClass" type="2" kind="0" selected="True" basic="True" value="Button" />
+				<property name="WndStyles" type="1" kind="0" selected="True" basic="True" value="1342373888" />
+				<property name="WndStylesEx" type="1" kind="0" selected="True" basic="True" value="4" />
+			</properties>
+			<children />
+		</child>
+	</children>
+</Root>

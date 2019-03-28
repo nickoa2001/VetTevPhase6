@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root identifier="Stores.Objects" version="1" mode="6" name="" className="" groupName="" objectType="0" selected="True">
+	<properties />
+	<children>
+		<child name="WinFormsObject(&quot;customers_stateTextBox&quot;)" className="WindowsForms10.EDIT.app.0.2004eee" groupName="" objectType="3" selected="True">
+			<properties>
+				<property name="AcceptsReturn" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AcceptsTab" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AccessibleRole" category=".NET" type="2" kind="3" selected="True" basic="True" value="Default" />
+				<property name="AllowDrop" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="Anchor" category=".NET" type="2" kind="3" selected="True" basic="True" value="Top, Left" />
+				<property name="AutoCompleteMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="None" />
+				<property name="AutoCompleteSource" category=".NET" type="2" kind="3" selected="True" basic="True" value="None" />
+				<property name="AutoSize" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="BackgroundImageLayout" category=".NET" type="2" kind="3" selected="True" basic="True" value="Tile" />
+				<property name="BorderStyle" category=".NET" type="2" kind="3" selected="True" basic="True" value="Fixed3D" />
+				<property name="Bottom" category=".NET" type="1" kind="0" selected="True" basic="True" value="168" />
+				<property name="CanFocus" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="CanSelect" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="CanUndo" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Capture" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="CausesValidation" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="CharacterCasing" category=".NET" type="2" kind="3" selected="True" basic="True" value="Normal" />
+				<property name="CheckForIllegalCrossThreadCalls" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="ChildCount" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="ClrClassName" category=".NET" type="2" kind="0" selected="True" basic="True" value="TextBox" />
+				<property name="ClrFullClassName" category=".NET" type="2" kind="0" selected="True" basic="True" value="System.Windows.Forms.TextBox" />
+				<property name="CompanyName" category=".NET" type="2" kind="0" selected="True" basic="True" value="Microsoft Corporation" />
+				<property name="ContainsFocus" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="ControlId" type="1" kind="0" selected="True" basic="True" value="332458" />
+				<property name="Created" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Disposing" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Dock" category=".NET" type="2" kind="3" selected="True" basic="True" value="None" />
+				<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Exists" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Focused" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="FullName" type="2" kind="0" selected="True" basic="True" value="Sys.Process(&quot;vettev&quot;).WinFormsObject(&quot;FormMain&quot;).WinFormsObject(&quot;MdiClient&quot;, &quot;&quot;).WinFormsObject(&quot;FormCustomers&quot;).WinFormsObject(&quot;panel2&quot;).WinFormsObject(&quot;panel6&quot;).WinFormsObject(&quot;tabControl_main&quot;).WinFormsObject(&quot;tabPage1&quot;).WinFormsObject(&quot;customers_stateTextBox&quot;)" />
+				<property name="Handle" type="1" kind="0" selected="True" basic="True" value="332458" />
+				<property name="HasChildren" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Height" type="1" kind="0" selected="True" basic="True" value="20" />
+				<property name="HideSelection" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="Id" type="1" kind="0" selected="True" basic="True" value="332458" />
+				<property name="ImeMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="NoControl" />
+				<property name="Index" type="1" kind="0" selected="True" basic="True" value="6" />
+				<property name="InvokeRequired" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsAccessible" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="IsDisposed" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsHandleCreated" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="IsMirrored" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Left" type="1" kind="0" selected="True" basic="True" value="13" />
+				<property name="MappedName" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="MaxLength" category=".NET" type="1" kind="3" selected="True" basic="True" value="100" />
+				<property name="Modified" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="ModifierKeys" category=".NET" type="2" kind="0" selected="True" basic="True" value="None" />
+				<property name="MouseButtons" category=".NET" type="2" kind="0" selected="True" basic="True" value="None" />
+				<property name="Multiline" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="Name" type="2" kind="0" selected="True" basic="True" value="WinFormsObject(&quot;customers_stateTextBox&quot;)" />
+				<property name="PasswordChar" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="PreferredHeight" category=".NET" type="1" kind="0" selected="True" basic="True" value="20" />
+				<property name="ProductName" category=".NET" type="2" kind="0" selected="True" basic="True" value="Microsoft® .NET Framework" />
+				<property name="ProductVersion" category=".NET" type="2" kind="0" selected="True" basic="True" value="2.0.50727.8745" />
+				<property name="ReadOnly" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="RecreatingHandle" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Right" category=".NET" type="1" kind="0" selected="True" basic="True" value="113" />
+				<property name="RightToLeft" category=".NET" type="2" kind="3" selected="True" basic="True" value="No" />
+				<property name="ScreenLeft" type="1" kind="0" selected="True" basic="True" value="3455" />
+				<property name="ScreenTop" type="1" kind="0" selected="True" basic="True" value="219" />
+				<property name="ScrollBars" category=".NET" type="2" kind="3" selected="True" basic="True" value="None" />
+				<property name="SelectedText" category=".NET" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="SelectionLength" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="SelectionStart" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="ShortcutsEnabled" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="TabIndex" category=".NET" type="1" kind="3" selected="True" basic="True" value="7" />
+				<property name="TabStop" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="Text" category=".NET" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="TextAlign" category=".NET" type="2" kind="3" selected="True" basic="True" value="Left" />
+				<property name="TextLength" category=".NET" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="Top" type="1" kind="0" selected="True" basic="True" value="148" />
+				<property name="Unicode" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="UseSystemPasswordChar" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="UseWaitCursor" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="VisibleOnScreen" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="wCueBanner" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="Width" type="1" kind="0" selected="True" basic="True" value="100" />
+				<property name="WinFormsControlName" category=".NET" type="2" kind="0" selected="True" basic="True" value="customers_stateTextBox" />
+				<property name="wLimit" category="Extended" type="1" kind="0" selected="True" basic="True" value="100" />
+				<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="WndClass" type="2" kind="0" selected="True" basic="True" value="WindowsForms10.EDIT.app.0.2004eee" />
+				<property name="WndStyles" type="1" kind="0" selected="True" basic="True" value="1442906304" />
+				<property name="WndStylesEx" type="1" kind="0" selected="True" basic="True" value="512" />
+				<property name="WordWrap" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="wPasswordChar" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="wSelection" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="wSelectionEnd" category="Extended" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="wSelectionStart" category="Extended" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="wText" category="Extended" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="acceptsReturn_2" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="acceptsTab_2" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="autoCompleteMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="None" />
+				<property name="autoCompleteSource_2" category="Private" type="2" kind="4" selected="True" basic="True" value="None" />
+				<property name="autoSize_2" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="borderStyle_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Fixed3D" />
+				<property name="characterCasing_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Normal" />
+				<property name="checkForIllegalCrossThreadCalls_2" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="clientHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="clientWidth" category="Private" type="1" kind="4" selected="True" basic="True" value="96" />
+				<property name="codeUpdateText" category="Private" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="controlStyle" category="Private" type="2" kind="4" selected="True" basic="True" value="FixedHeight, Selectable, AllPaintingInWmPaint" />
+				<property name="creatingHandle" category="Private" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="doubleClickFired" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="fromHandleCreate" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="height_2" category="Private" type="1" kind="4" selected="True" basic="True" value="20" />
+				<property name="hideSelection_2" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="ignoreWmImeNotify_2" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="ImeCharsToIgnoreDisabled" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="ImeCharsToIgnoreEnabled" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="inCrossThreadSafeCall" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="integralHeightAdjust" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="layoutSuspendCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="maxLength_2" category="Private" type="1" kind="4" selected="True" basic="True" value="100" />
+				<property name="modified_2" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="mouseWheelInit" category="Private" type="3" kind="4" selected="True" basic="True" value="True" />
+				<property name="mouseWheelMessage" category="Private" type="1" kind="4" selected="True" basic="True" value="522" />
+				<property name="mouseWheelRoutingNeeded" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="multiline_2" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="PaintLayerBackground" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="PaintLayerForeground" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="passwordChar_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="PropAccessibility" category="Private" type="1" kind="4" selected="True" basic="True" value="19" />
+				<property name="PropAccessibleDefaultActionDescription" category="Private" type="1" kind="4" selected="True" basic="True" value="17" />
+				<property name="PropAccessibleDescription" category="Private" type="1" kind="4" selected="True" basic="True" value="18" />
+				<property name="PropAccessibleHelpProvider" category="Private" type="1" kind="4" selected="True" basic="True" value="27" />
+				<property name="PropAccessibleName" category="Private" type="1" kind="4" selected="True" basic="True" value="21" />
+				<property name="PropAccessibleRole" category="Private" type="1" kind="4" selected="True" basic="True" value="22" />
+				<property name="PropActiveXImpl" category="Private" type="1" kind="4" selected="True" basic="True" value="24" />
+				<property name="propagatingImeMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Inherit" />
+				<property name="PropAmbientPropertiesService" category="Private" type="1" kind="4" selected="True" basic="True" value="37" />
+				<property name="PropAutoScrollOffset" category="Private" type="1" kind="4" selected="True" basic="True" value="29" />
+				<property name="PropBackBrush" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="PropBackColor" category="Private" type="1" kind="4" selected="True" basic="True" value="5" />
+				<property name="PropBackgroundImage" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="PropBackgroundImageLayout" category="Private" type="1" kind="4" selected="True" basic="True" value="26" />
+				<property name="PropBindingManager" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="PropBindings" category="Private" type="1" kind="4" selected="True" basic="True" value="15" />
+				<property name="PropCacheTextCount" category="Private" type="1" kind="4" selected="True" basic="True" value="35" />
+				<property name="PropCacheTextField" category="Private" type="1" kind="4" selected="True" basic="True" value="36" />
+				<property name="PropContextMenu" category="Private" type="1" kind="4" selected="True" basic="True" value="11" />
+				<property name="PropContextMenuStrip" category="Private" type="1" kind="4" selected="True" basic="True" value="28" />
+				<property name="PropControlsCollection" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="PropControlVersionInfo" category="Private" type="1" kind="4" selected="True" basic="True" value="25" />
+				<property name="PropCurrentAmbientFont" category="Private" type="1" kind="4" selected="True" basic="True" value="3" />
+				<property name="PropCursor" category="Private" type="1" kind="4" selected="True" basic="True" value="12" />
+				<property name="PropDisableImeModeChangedCount" category="Private" type="1" kind="4" selected="True" basic="True" value="33" />
+				<property name="PropFont" category="Private" type="1" kind="4" selected="True" basic="True" value="7" />
+				<property name="PropFontHandleWrapper" category="Private" type="1" kind="4" selected="True" basic="True" value="9" />
+				<property name="PropFontHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="PropForeColor" category="Private" type="1" kind="4" selected="True" basic="True" value="6" />
+				<property name="PropImeMode" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="PropImeWmCharsToIgnore" category="Private" type="1" kind="4" selected="True" basic="True" value="31" />
+				<property name="PropLastCanEnableIme" category="Private" type="1" kind="4" selected="True" basic="True" value="34" />
+				<property name="PropName" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="PropNcAccessibility" category="Private" type="1" kind="4" selected="True" basic="True" value="20" />
+				<property name="PropPaintingException" category="Private" type="1" kind="4" selected="True" basic="True" value="23" />
+				<property name="PropRegion" category="Private" type="1" kind="4" selected="True" basic="True" value="13" />
+				<property name="PropRightToLeft" category="Private" type="1" kind="4" selected="True" basic="True" value="14" />
+				<property name="PropUseCompatibleTextRendering" category="Private" type="1" kind="4" selected="True" basic="True" value="30" />
+				<property name="PropUserData" category="Private" type="1" kind="4" selected="True" basic="True" value="10" />
+				<property name="readOnly_2" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="requestedHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="20" />
+				<property name="requiredScaling_2" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="RequiredScalingEnabledMask" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="RequiredScalingMask" category="Private" type="1" kind="4" selected="True" basic="True" value="15" />
+				<property name="scrollBars_2" category="Private" type="2" kind="4" selected="True" basic="True" value="None" />
+				<property name="scrollToCaretOnHandleCreated" category="Private" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="selectionLength_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="selectionSet" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="selectionStart_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="setSelectionOnHandleCreated" category="Private" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="shortcutsEnabled_2" category="Private" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="state" category="Private" type="1" kind="4" selected="True" basic="True" value="16908815" />
+				<property name="state2" category="Private" type="1" kind="4" selected="True" basic="True" value="2120" />
+				<property name="STATE2_BECOMINGACTIVECONTROL" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="STATE2_CLEARLAYOUTARGS" category="Private" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="STATE2_HAVEINVOKED" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="STATE2_INPUTCHAR" category="Private" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="STATE2_INPUTKEY" category="Private" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="STATE2_ISACTIVEX" category="Private" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="STATE2_LISTENINGTOUSERPREFERENCECHANGED" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="STATE2_SETSCROLLPOS" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="STATE2_UICUES" category="Private" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="tabIndex_2" category="Private" type="1" kind="4" selected="True" basic="True" value="7" />
+				<property name="textAlign_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Left" />
+				<property name="threadCallbackMessage" category="Private" type="1" kind="4" selected="True" basic="True" value="49885" />
+				<property name="uiCuesState" category="Private" type="1" kind="4" selected="True" basic="True" value="17" />
+				<property name="UISTATE_FOCUS_CUES_HIDDEN" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="UISTATE_FOCUS_CUES_MASK" category="Private" type="1" kind="4" selected="True" basic="True" value="15" />
+				<property name="UISTATE_FOCUS_CUES_SHOW" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="UISTATE_KEYBOARD_CUES_HIDDEN" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="UISTATE_KEYBOARD_CUES_MASK" category="Private" type="1" kind="4" selected="True" basic="True" value="240" />
+				<property name="UISTATE_KEYBOARD_CUES_SHOW" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="updateCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="useSystemPasswordChar_2" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="width_2" category="Private" type="1" kind="4" selected="True" basic="True" value="100" />
+				<property name="WM_GETCONTROLNAME" category="Private" type="1" kind="4" selected="True" basic="True" value="49787" />
+				<property name="WM_GETCONTROLTYPE" category="Private" type="1" kind="4" selected="True" basic="True" value="49791" />
+				<property name="wordWrap_2" category="Private" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="x" category="Private" type="1" kind="4" selected="True" basic="True" value="13" />
+				<property name="y" category="Private" type="1" kind="4" selected="True" basic="True" value="148" />
+				<property name="STATE_ALLOWDROP" category="Protected" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="STATE_CAUSESVALIDATION" category="Protected" type="1" kind="4" selected="True" basic="True" value="131072" />
+				<property name="STATE_CHECKEDHOST" category="Protected" type="1" kind="4" selected="True" basic="True" value="16777216" />
+				<property name="STATE_CREATED" category="Protected" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="STATE_CREATINGHANDLE" category="Protected" type="1" kind="4" selected="True" basic="True" value="262144" />
+				<property name="STATE_DISPOSED" category="Protected" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="STATE_DISPOSING" category="Protected" type="1" kind="4" selected="True" basic="True" value="4096" />
+				<property name="STATE_DOUBLECLICKFIRED" category="Protected" type="1" kind="4" selected="True" basic="True" value="67108864" />
+				<property name="STATE_DROPTARGET" category="Protected" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="STATE_ENABLED" category="Protected" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="STATE_EXCEPTIONWHILEPAINTING" category="Protected" type="1" kind="4" selected="True" basic="True" value="4194304" />
+				<property name="STATE_HOSTEDINDIALOG" category="Protected" type="1" kind="4" selected="True" basic="True" value="33554432" />
+				<property name="STATE_ISACCESSIBLE" category="Protected" type="1" kind="4" selected="True" basic="True" value="1048576" />
+				<property name="STATE_LAYOUTDEFERRED" category="Protected" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="STATE_LAYOUTISDIRTY" category="Protected" type="1" kind="4" selected="True" basic="True" value="8388608" />
+				<property name="STATE_MIRRORED" category="Protected" type="1" kind="4" selected="True" basic="True" value="1073741824" />
+				<property name="STATE_MODAL" category="Protected" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="STATE_MOUSEENTERPENDING" category="Protected" type="1" kind="4" selected="True" basic="True" value="8192" />
+				<property name="STATE_MOUSEPRESSED" category="Protected" type="1" kind="4" selected="True" basic="True" value="134217728" />
+				<property name="STATE_NOZORDER" category="Protected" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="STATE_OWNCTLBRUSH" category="Protected" type="1" kind="4" selected="True" basic="True" value="2097152" />
+				<property name="STATE_PARENTRECREATING" category="Protected" type="1" kind="4" selected="True" basic="True" value="536870912" />
+				<property name="STATE_RECREATE" category="Protected" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="STATE_SIZELOCKEDBYOS" category="Protected" type="1" kind="4" selected="True" basic="True" value="65536" />
+				<property name="STATE_TABSTOP" category="Protected" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="STATE_THREADMARSHALLPENDING" category="Protected" type="1" kind="4" selected="True" basic="True" value="32768" />
+				<property name="STATE_TOPLEVEL" category="Protected" type="1" kind="4" selected="True" basic="True" value="524288" />
+				<property name="STATE_TRACKINGMOUSEEVENT" category="Protected" type="1" kind="4" selected="True" basic="True" value="16384" />
+				<property name="STATE_USEWAITCURSOR" category="Protected" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="STATE_VALIDATIONCANCELLED" category="Protected" type="1" kind="4" selected="True" basic="True" value="268435456" />
+				<property name="STATE_VISIBLE" category="Protected" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="STATE2_INTERESTEDINUSERPREFERENCECHANGED" category="Protected" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="STATE2_MAINTAINSOWNCAPTUREMODE" category="Protected" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="STATE2_USEPREFERREDSIZECACHE" category="Protected" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="UseCompatibleTextRenderingDefault" category="Protected" type="3" kind="4" selected="True" basic="True" value="False" />
+			</properties>
+			<children />
+		</child>
+	</children>
+</Root>

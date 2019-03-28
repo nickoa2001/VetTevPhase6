@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{30501691-969F-4007-923F-BA4459E51E6A}" version="14.0">
+	<children>
+		<child name="Customers_Button_New" key="{00CFAF4F-18E7-4650-B393-C83838B090E2}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_New" ID="{00CFAF4F-18E7-4650-B393-C83838B090E2}" FileName="Objects\Customers_Button_New.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_Name" key="{EA72D29A-A79B-47D7-8784-26682AB781AE}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_Name" ID="{EA72D29A-A79B-47D7-8784-26682AB781AE}" FileName="Objects\Customers_TextBox_Name.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_Surname" key="{1815E5C7-0DFC-485D-B630-4F9809A88F71}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_Surname" ID="{1815E5C7-0DFC-485D-B630-4F9809A88F71}" FileName="Objects\Customers_TextBox_Surname.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_State" key="{1873D03A-5C4E-4D30-B921-F876585C154B}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_State" ID="{1873D03A-5C4E-4D30-B921-F876585C154B}" FileName="Objects\Customers_TextBox_State.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_Phone" key="{E5AC2A46-C8E3-482C-8511-7339E99F35E5}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_Phone" ID="{E5AC2A46-C8E3-482C-8511-7339E99F35E5}" FileName="Objects\Customers_TextBox_Phone.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_City" key="{086F4079-2C90-4F48-B645-A03908C021C8}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_City" ID="{086F4079-2C90-4F48-B645-A03908C021C8}" FileName="Objects\Customers_TextBox_City.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_Email" key="{6C0D2E6C-04B5-4FFE-BD61-89FF6A822AA6}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_Email" ID="{6C0D2E6C-04B5-4FFE-BD61-89FF6A822AA6}" FileName="Objects\Customers_TextBox_Email.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_MakeInvoiceText" key="{1E9B006C-40D6-48C3-B951-0085D0AE6DF1}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_MakeInvoiceText" ID="{1E9B006C-40D6-48C3-B951-0085D0AE6DF1}" FileName="Objects\Customers_Button_MakeInvoiceText.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_InvoiceText" key="{E857917F-2750-4D5F-B74C-5D2CB4CB5FE2}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_InvoiceText" ID="{E857917F-2750-4D5F-B74C-5D2CB4CB5FE2}" FileName="Objects\Customers_TextBox_InvoiceText.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_Save" key="{EA769306-67BF-4BD4-90E2-78C6879FA45A}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_Save" ID="{EA769306-67BF-4BD4-90E2-78C6879FA45A}" FileName="Objects\Customers_Button_Save.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_Undo" key="{9A66D97C-915F-4100-992B-4CC406AA097B}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_Undo" ID="{9A66D97C-915F-4100-992B-4CC406AA097B}" FileName="Objects\Customers_Button_Undo.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_Edit" key="{FE45FBBB-D400-4E14-89CE-EEBD352B44BC}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_Edit" ID="{FE45FBBB-D400-4E14-89CE-EEBD352B44BC}" FileName="Objects\Customers_Button_Edit.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_Delete" key="{EF072428-A172-4872-8626-3A0D35DDFE64}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_Delete" ID="{EF072428-A172-4872-8626-3A0D35DDFE64}" FileName="Objects\Customers_Button_Delete.tcObject" Update="False" />
+		</child>
+		<child name="Customers_GridView" key="{301B4D01-9555-4FBA-AF43-04A2AC8C06BD}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_GridView" ID="{301B4D01-9555-4FBA-AF43-04A2AC8C06BD}" FileName="Objects\Customers_GridView.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_ConfirmDeleteYes" key="{3D44E468-ACB3-4319-BAF8-C972396B7C8D}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_ConfirmDeleteYes" ID="{3D44E468-ACB3-4319-BAF8-C972396B7C8D}" FileName="Objects\Customers_Button_ConfirmDeleteYes.tcObject" Update="False" />
+		</child>
+		<child name="Customers_Button_ConfirmDeleteNo" key="{ED5E78E9-923D-425A-B569-1C581017F561}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_Button_ConfirmDeleteNo" ID="{ED5E78E9-923D-425A-B569-1C581017F561}" FileName="Objects\Customers_Button_ConfirmDeleteNo.tcObject" Update="False" />
+		</child>
+		<child name="MenuBar_Customers" key="{AD0561A7-96FF-4B67-B159-3DA60CF75925}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="MenuBar_Customers" ID="{AD0561A7-96FF-4B67-B159-3DA60CF75925}" FileName="Objects\MenuBar_Customers.tcObject" Update="False" />
+		</child>
+		<child name="MenuBar_Animals" key="{F6AC90F2-9FE0-4EBA-A503-6821C5594D33}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="MenuBar_Animals" ID="{F6AC90F2-9FE0-4EBA-A503-6821C5594D33}" FileName="Objects\MenuBar_Animals.tcObject" Update="False" />
+		</child>
+		<child name="MenuBar_Calendar" key="{61122FA0-C573-48D6-9680-7BE8374B3213}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="MenuBar_Calendar" ID="{61122FA0-C573-48D6-9680-7BE8374B3213}" FileName="Objects\MenuBar_Calendar.tcObject" Update="False" />
+		</child>
+		<child name="Customers_TextBox_Street" key="{E19A79D9-F614-4AE3-BA13-38C792033483}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Customers_TextBox_Street" ID="{E19A79D9-F614-4AE3-BA13-38C792033483}" FileName="Objects\Customers_TextBox_Street.tcObject" Update="False" />
+		</child>
+		<child name="Animals_ComboBox_Customer" key="{A314A971-9A4E-4E95-9311-7893F5009224}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_ComboBox_Customer" ID="{A314A971-9A4E-4E95-9311-7893F5009224}" FileName="Objects\Animals_ComboBox_Customer.tcObject" Update="False" />
+		</child>
+		<child name="Animals_Button_New" key="{82C2EE28-C8E6-4A5F-BE31-3C9FC5FC0A25}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_Button_New" ID="{82C2EE28-C8E6-4A5F-BE31-3C9FC5FC0A25}" FileName="Objects\Animals_Button_New.tcObject" Update="False" />
+		</child>
+		<child name="Animals_Button_Undo" key="{11AD6243-0FBE-4A24-872E-082B6B2B7D2B}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_Button_Undo" ID="{11AD6243-0FBE-4A24-872E-082B6B2B7D2B}" FileName="Objects\Animals_Button_Undo.tcObject" Update="False" />
+		</child>
+		<child name="Animals_Button_Save" key="{A45C498B-9D29-4366-A12A-503ACEAE78CE}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_Button_Save" ID="{A45C498B-9D29-4366-A12A-503ACEAE78CE}" FileName="Objects\Animals_Button_Save.tcObject" Update="False" />
+		</child>
+		<child name="Animals_Button_Edit" key="{2DEC2BA2-CE20-473C-80FC-5506475F751E}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_Button_Edit" ID="{2DEC2BA2-CE20-473C-80FC-5506475F751E}" FileName="Objects\Animals_Button_Edit.tcObject" Update="False" />
+		</child>
+		<child name="Animals_Button_Delete" key="{581EE3FC-5174-4C78-BCDB-36F59C4107C1}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_Button_Delete" ID="{581EE3FC-5174-4C78-BCDB-36F59C4107C1}" FileName="Objects\Animals_Button_Delete.tcObject" Update="False" />
+		</child>
+		<child name="Animals_ComboBox_Breeds" key="{7AE46B60-EFA5-40B4-A7F8-6C27DD255FDD}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_ComboBox_Breeds" ID="{7AE46B60-EFA5-40B4-A7F8-6C27DD255FDD}" FileName="Objects\Animals_ComboBox_Breeds.tcObject" Update="False" />
+		</child>
+		<child name="Animals_RadioButton_SexMale" key="{21597A06-670D-4BF2-B65D-DF52630129FB}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_RadioButton_SexMale" ID="{21597A06-670D-4BF2-B65D-DF52630129FB}" FileName="Objects\Animals_RadioButton_SexMale.tcObject" Update="False" />
+		</child>
+		<child name="Animals_RadioButton_SexFemale" key="{A48FBFA9-EA4B-4AD3-8A37-0E7D44C0D06F}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_RadioButton_SexFemale" ID="{A48FBFA9-EA4B-4AD3-8A37-0E7D44C0D06F}" FileName="Objects\Animals_RadioButton_SexFemale.tcObject" Update="False" />
+		</child>
+		<child name="Animals_RadioButton_SterilizedYes" key="{EEB69CD8-E688-4EDC-82F5-DC14B4D31F30}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_RadioButton_SterilizedYes" ID="{EEB69CD8-E688-4EDC-82F5-DC14B4D31F30}" FileName="Objects\Animals_RadioButton_SterilizedYes.tcObject" Update="False" />
+		</child>
+		<child name="Animals_RadioButton_SterilizedNo" key="{CECF95C7-FDD3-406B-A5A9-FAAADB0A31F7}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_RadioButton_SterilizedNo" ID="{CECF95C7-FDD3-406B-A5A9-FAAADB0A31F7}" FileName="Objects\Animals_RadioButton_SterilizedNo.tcObject" Update="False" />
+		</child>
+		<child name="Animals_TextBox_AnimalName" key="{18380D52-0B38-40D1-A47E-43C533698A9F}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_TextBox_AnimalName" ID="{18380D52-0B38-40D1-A47E-43C533698A9F}" FileName="Objects\Animals_TextBox_AnimalName.tcObject" Update="False" />
+		</child>
+	</children>
+</Root>

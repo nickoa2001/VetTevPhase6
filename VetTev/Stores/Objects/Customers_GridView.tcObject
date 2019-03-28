@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root identifier="Stores.Objects" version="1" mode="6" name="" className="" groupName="" objectType="0" selected="True">
+	<properties />
+	<children>
+		<child name="WinFormsObject(&quot;dataGridView_main&quot;)" className="WindowsForms10.Window.8.app.0.2004eee" groupName="" objectType="1" selected="True">
+			<properties>
+				<property name="AccessibleRole" category=".NET" type="2" kind="3" selected="True" basic="True" value="Default" />
+				<property name="AllowDrop" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AllowUserToAddRows" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AllowUserToDeleteRows" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AllowUserToOrderColumns" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AllowUserToResizeColumns" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AllowUserToResizeRows" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="Anchor" category=".NET" type="2" kind="3" selected="True" basic="True" value="Top, Left" />
+				<property name="AutoGenerateColumns" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AutoSize" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="AutoSizeColumnsMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="None" />
+				<property name="AutoSizeRowsMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="None" />
+				<property name="BackgroundImageLayout" category=".NET" type="2" kind="3" selected="True" basic="True" value="Tile" />
+				<property name="BorderStyle" category=".NET" type="2" kind="3" selected="True" basic="True" value="FixedSingle" />
+				<property name="Bottom" category=".NET" type="1" kind="0" selected="True" basic="True" value="887" />
+				<property name="CanFocus" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="CanSelect" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Capture" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="CausesValidation" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="CellBorderStyle" category=".NET" type="2" kind="3" selected="True" basic="True" value="Single" />
+				<property name="CheckForIllegalCrossThreadCalls" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="ChildCount" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="ClipboardCopyMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="EnableWithAutoHeaderText" />
+				<property name="ClrClassName" category=".NET" type="2" kind="0" selected="True" basic="True" value="DataGridView" />
+				<property name="ClrFullClassName" category=".NET" type="2" kind="0" selected="True" basic="True" value="System.Windows.Forms.DataGridView" />
+				<property name="ColumnCount" category=".NET" type="1" kind="3" selected="True" basic="True" value="4" />
+				<property name="ColumnHeadersBorderStyle" category=".NET" type="2" kind="3" selected="True" basic="True" value="Raised" />
+				<property name="ColumnHeadersHeight" category=".NET" type="1" kind="3" selected="True" basic="True" value="21" />
+				<property name="ColumnHeadersHeightSizeMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="AutoSize" />
+				<property name="ColumnHeadersVisible" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="CompanyName" category=".NET" type="2" kind="0" selected="True" basic="True" value="Microsoft Corporation" />
+				<property name="ContainsFocus" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="ControlId" type="1" kind="0" selected="True" basic="True" value="3672032" />
+				<property name="Created" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="DataMember" category=".NET" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="Disposing" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Dock" category=".NET" type="2" kind="3" selected="True" basic="True" value="Fill" />
+				<property name="EditMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="EditOnKeystrokeOrF2" />
+				<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="EnableHeadersVisualStyles" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="Exists" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="FirstDisplayedScrollingColumnHiddenWidth" category=".NET" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="FirstDisplayedScrollingColumnIndex" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="FirstDisplayedScrollingRowIndex" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="Focused" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="FullName" type="2" kind="0" selected="True" basic="True" value="Sys.Process(&quot;vettev&quot;).WinFormsObject(&quot;FormMain&quot;).WinFormsObject(&quot;MdiClient&quot;, &quot;&quot;).WinFormsObject(&quot;FormCustomers&quot;).WinFormsObject(&quot;panel1&quot;).WinFormsObject(&quot;panel5&quot;).WinFormsObject(&quot;dataGridView_main&quot;)" />
+				<property name="Handle" type="1" kind="0" selected="True" basic="True" value="3672032" />
+				<property name="HasChildren" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="Height" type="1" kind="0" selected="True" basic="True" value="887" />
+				<property name="HorizontalScrollingOffset" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="Id" type="1" kind="0" selected="True" basic="True" value="3672032" />
+				<property name="ImeMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="NoControl" />
+				<property name="Index" type="1" kind="0" selected="True" basic="True" value="1" />
+				<property name="InvokeRequired" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsAccessible" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="IsCurrentCellDirty" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsCurrentCellInEditMode" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsCurrentRowDirty" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsDisposed" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="IsHandleCreated" category=".NET" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="IsMirrored" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Left" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="MappedName" type="2" kind="0" selected="True" basic="True" value="" />
+				<property name="ModifierKeys" category=".NET" type="2" kind="0" selected="True" basic="True" value="None" />
+				<property name="MouseButtons" category=".NET" type="2" kind="0" selected="True" basic="True" value="None" />
+				<property name="MultiSelect" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="Name" type="2" kind="0" selected="True" basic="True" value="WinFormsObject(&quot;dataGridView_main&quot;)" />
+				<property name="NewRowIndex" category=".NET" type="1" kind="0" selected="True" basic="True" value="-1" />
+				<property name="ProductName" category=".NET" type="2" kind="0" selected="True" basic="True" value="Microsoft® .NET Framework" />
+				<property name="ProductVersion" category=".NET" type="2" kind="0" selected="True" basic="True" value="2.0.50727.8745" />
+				<property name="ReadOnly" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="RecreatingHandle" category=".NET" type="3" kind="0" selected="True" basic="True" value="False" />
+				<property name="Right" category=".NET" type="1" kind="0" selected="True" basic="True" value="1516" />
+				<property name="RightToLeft" category=".NET" type="2" kind="3" selected="True" basic="True" value="No" />
+				<property name="RowCount" category=".NET" type="1" kind="3" selected="True" basic="True" value="7" />
+				<property name="RowHeadersBorderStyle" category=".NET" type="2" kind="3" selected="True" basic="True" value="Raised" />
+				<property name="RowHeadersVisible" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="RowHeadersWidth" category=".NET" type="1" kind="3" selected="True" basic="True" value="41" />
+				<property name="RowHeadersWidthSizeMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="EnableResizing" />
+				<property name="ScreenLeft" type="1" kind="0" selected="True" basic="True" value="1922" />
+				<property name="ScreenTop" type="1" kind="0" selected="True" basic="True" value="89" />
+				<property name="ScrollBars" category=".NET" type="2" kind="3" selected="True" basic="True" value="Both" />
+				<property name="SelectionMode" category=".NET" type="2" kind="3" selected="True" basic="True" value="FullRowSelect" />
+				<property name="ShowCellErrors" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="ShowCellToolTips" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="ShowEditingIcon" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="ShowRowErrors" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="SortOrder" category=".NET" type="2" kind="0" selected="True" basic="True" value="Ascending" />
+				<property name="StandardTab" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="TabIndex" category=".NET" type="1" kind="3" selected="True" basic="True" value="0" />
+				<property name="TabStop" category=".NET" type="3" kind="3" selected="True" basic="True" value="True" />
+				<property name="Text" category=".NET" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="Top" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="Unicode" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="UseWaitCursor" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="VerticalScrollingOffset" category=".NET" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="VirtualMode" category=".NET" type="3" kind="3" selected="True" basic="True" value="False" />
+				<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="VisibleOnScreen" type="3" kind="0" selected="True" basic="True" value="True" />
+				<property name="wColumnCount" category="Extended" type="1" kind="0" selected="True" basic="True" value="4" />
+				<property name="Width" type="1" kind="0" selected="True" basic="True" value="1516" />
+				<property name="WinFormsControlName" category=".NET" type="2" kind="0" selected="True" basic="True" value="dataGridView_main" />
+				<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+				<property name="WndClass" type="2" kind="0" selected="True" basic="True" value="WindowsForms10.Window.8.app.0.2004eee" />
+				<property name="WndStyles" type="1" kind="0" selected="True" basic="True" value="1442906112" />
+				<property name="WndStylesEx" type="1" kind="0" selected="True" basic="True" value="0" />
+				<property name="wRowCount" category="Extended" type="1" kind="0" selected="True" basic="True" value="7" />
+				<property name="autoSizeColumnsMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="None" />
+				<property name="autoSizeRowsMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="None" />
+				<property name="availableWidthForFillColumns" category="Private" type="1" kind="4" selected="True" basic="True" value="1303" />
+				<property name="borderStyle_2" category="Private" type="2" kind="4" selected="True" basic="True" value="FixedSingle" />
+				<property name="cachedColumnHeadersHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="23" />
+				<property name="cachedRowHeadersWidth" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="checkForIllegalCrossThreadCalls_2" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="clientHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="887" />
+				<property name="clientWidth" category="Private" type="1" kind="4" selected="True" basic="True" value="1516" />
+				<property name="clipboardCopyMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="EnableWithAutoHeaderText" />
+				<property name="columnHeadersHeight_2" category="Private" type="1" kind="4" selected="True" basic="True" value="21" />
+				<property name="columnHeadersHeightSizeMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="AutoSize" />
+				<property name="controlStyle" category="Private" type="2" kind="4" selected="True" basic="True" value="UserPaint, Opaque, StandardClick, Selectable, UserMouse, StandardDoubleClick, AllPaintingInWmPaint, UseTextForAccessibility" />
+				<property name="cumulativeHorizontalWheelDelta" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="cumulativeVerticalWheelDelta" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="currentColSplitBar" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="currentRowSplitBar" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="DATAGRIDVIEW_bulkPaintThreshold" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="DATAGRIDVIEW_columnSizingHotZone" category="Private" type="1" kind="4" selected="True" basic="True" value="6" />
+				<property name="DATAGRIDVIEW_htmlEndFragment" category="Private" type="2" kind="4" selected="True" basic="True" value="0D000A003C0021002D002D0045006E00640046007200610067006D0065006E0074002D002D003E000D000A003C002F0042004F00440059003E000D000A003C002F00480054004D004C003E00" />
+				<property name="DATAGRIDVIEW_htmlPrefix" category="Private" type="2" kind="4" selected="True" basic="True" value="560065007200730069006F006E003A0031002E0030000D000A0053007400610072007400480054004D004C003A00300030003000300030003000390037000D000A0045006E006400480054004D004C003A007B0030007D000D000A005300740061007200740046007200610067006D0065006E0074003A00300030003000300030003100330033000D000A0045006E00640046007200610067006D0065006E0074003A007B0031007D000D000A00" />
+				<property name="DATAGRIDVIEW_htmlStartFragment" category="Private" type="2" kind="4" selected="True" basic="True" value="3C00480054004D004C003E000D000A003C0042004F00440059003E000D000A003C0021002D002D005300740061007200740046007200610067006D0065006E0074002D002D003E00" />
+				<property name="DATAGRIDVIEW_insertionBarWidth" category="Private" type="1" kind="4" selected="True" basic="True" value="3" />
+				<property name="DATAGRIDVIEW_rowSizingHotZone" category="Private" type="1" kind="4" selected="True" basic="True" value="5" />
+				<property name="DATAGRIDVIEWOPER_inAdjustFillingColumn" category="Private" type="1" kind="4" selected="True" basic="True" value="524288" />
+				<property name="DATAGRIDVIEWOPER_inAdjustFillingColumns" category="Private" type="1" kind="4" selected="True" basic="True" value="262144" />
+				<property name="DATAGRIDVIEWOPER_inBeginEdit" category="Private" type="1" kind="4" selected="True" basic="True" value="2097152" />
+				<property name="DATAGRIDVIEWOPER_inBorderStyleChange" category="Private" type="1" kind="4" selected="True" basic="True" value="65536" />
+				<property name="DATAGRIDVIEWOPER_inCellValidating" category="Private" type="1" kind="4" selected="True" basic="True" value="32768" />
+				<property name="DATAGRIDVIEWOPER_inCurrentCellChange" category="Private" type="1" kind="4" selected="True" basic="True" value="131072" />
+				<property name="DATAGRIDVIEWOPER_inDisplayIndexAdjustments" category="Private" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="DATAGRIDVIEWOPER_inDispose" category="Private" type="1" kind="4" selected="True" basic="True" value="1048576" />
+				<property name="DATAGRIDVIEWOPER_inEndEdit" category="Private" type="1" kind="4" selected="True" basic="True" value="4194304" />
+				<property name="DATAGRIDVIEWOPER_inMouseDown" category="Private" type="1" kind="4" selected="True" basic="True" value="8192" />
+				<property name="DATAGRIDVIEWOPER_inReadOnlyChange" category="Private" type="1" kind="4" selected="True" basic="True" value="16384" />
+				<property name="DATAGRIDVIEWOPER_inRefreshColumns" category="Private" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="DATAGRIDVIEWOPER_inSort" category="Private" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="DATAGRIDVIEWOPER_lastEditCtrlClickDoubled" category="Private" type="1" kind="4" selected="True" basic="True" value="4096" />
+				<property name="DATAGRIDVIEWOPER_resizingOperationAboutToStart" category="Private" type="1" kind="4" selected="True" basic="True" value="8388608" />
+				<property name="DATAGRIDVIEWOPER_trackCellSelect" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="DATAGRIDVIEWOPER_trackColHeadersResize" category="Private" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="DATAGRIDVIEWOPER_trackColRelocation" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="DATAGRIDVIEWOPER_trackColResize" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="DATAGRIDVIEWOPER_trackColSelect" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="DATAGRIDVIEWOPER_trackMouseMoves" category="Private" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="DATAGRIDVIEWOPER_trackRowHeadersResize" category="Private" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="DATAGRIDVIEWOPER_trackRowResize" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="DATAGRIDVIEWOPER_trackRowSelect" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="DATAGRIDVIEWSTATE1_allowUserToAddRows" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="DATAGRIDVIEWSTATE1_allowUserToDeleteRows" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="DATAGRIDVIEWSTATE1_allowUserToOrderColumns" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="DATAGRIDVIEWSTATE1_ambientColumnHeadersFont" category="Private" type="1" kind="4" selected="True" basic="True" value="67108864" />
+				<property name="DATAGRIDVIEWSTATE1_ambientFont" category="Private" type="1" kind="4" selected="True" basic="True" value="33554432" />
+				<property name="DATAGRIDVIEWSTATE1_ambientForeColor" category="Private" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="DATAGRIDVIEWSTATE1_ambientRowHeadersFont" category="Private" type="1" kind="4" selected="True" basic="True" value="134217728" />
+				<property name="DATAGRIDVIEWSTATE1_autoGenerateColumns" category="Private" type="1" kind="4" selected="True" basic="True" value="8388608" />
+				<property name="DATAGRIDVIEWSTATE1_columnHeadersVisible" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="DATAGRIDVIEWSTATE1_currentCellInEditMode" category="Private" type="1" kind="4" selected="True" basic="True" value="32768" />
+				<property name="DATAGRIDVIEWSTATE1_customCursorSet" category="Private" type="1" kind="4" selected="True" basic="True" value="16777216" />
+				<property name="DATAGRIDVIEWSTATE1_editedCellChanged" category="Private" type="1" kind="4" selected="True" basic="True" value="131072" />
+				<property name="DATAGRIDVIEWSTATE1_editedRowChanged" category="Private" type="1" kind="4" selected="True" basic="True" value="262144" />
+				<property name="DATAGRIDVIEWSTATE1_editingControlChanging" category="Private" type="1" kind="4" selected="True" basic="True" value="16384" />
+				<property name="DATAGRIDVIEWSTATE1_editingControlHidden" category="Private" type="1" kind="4" selected="True" basic="True" value="4096" />
+				<property name="DATAGRIDVIEWSTATE1_forwardCharMessage" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="DATAGRIDVIEWSTATE1_ignoringEditingChanges" category="Private" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="DATAGRIDVIEWSTATE1_isAutoSized" category="Private" type="1" kind="4" selected="True" basic="True" value="1073741824" />
+				<property name="DATAGRIDVIEWSTATE1_isRestricted" category="Private" type="1" kind="4" selected="True" basic="True" value="536870912" />
+				<property name="DATAGRIDVIEWSTATE1_isRestrictedChecked" category="Private" type="1" kind="4" selected="True" basic="True" value="268435456" />
+				<property name="DATAGRIDVIEWSTATE1_leavingWithTabKey" category="Private" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="DATAGRIDVIEWSTATE1_multiSelect" category="Private" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="DATAGRIDVIEWSTATE1_newRowCreatedByEditing" category="Private" type="1" kind="4" selected="True" basic="True" value="2097152" />
+				<property name="DATAGRIDVIEWSTATE1_newRowEdited" category="Private" type="1" kind="4" selected="True" basic="True" value="524288" />
+				<property name="DATAGRIDVIEWSTATE1_readOnly" category="Private" type="1" kind="4" selected="True" basic="True" value="1048576" />
+				<property name="DATAGRIDVIEWSTATE1_rowHeadersVisible" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="DATAGRIDVIEWSTATE1_scrolledSinceMouseDown" category="Private" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="DATAGRIDVIEWSTATE1_standardTab" category="Private" type="1" kind="4" selected="True" basic="True" value="8192" />
+				<property name="DATAGRIDVIEWSTATE1_temporarilyResetCurrentCell" category="Private" type="1" kind="4" selected="True" basic="True" value="4194304" />
+				<property name="DATAGRIDVIEWSTATE1_virtualMode" category="Private" type="1" kind="4" selected="True" basic="True" value="65536" />
+				<property name="DATAGRIDVIEWSTATE2_allowHorizontalScrollbar" category="Private" type="1" kind="4" selected="True" basic="True" value="33554432" />
+				<property name="DATAGRIDVIEWSTATE2_allowUserToResizeColumns" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="DATAGRIDVIEWSTATE2_allowUserToResizeRows" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="DATAGRIDVIEWSTATE2_autoSizedWithoutHandle" category="Private" type="1" kind="4" selected="True" basic="True" value="1048576" />
+				<property name="DATAGRIDVIEWSTATE2_cellMouseDownInContentBounds" category="Private" type="1" kind="4" selected="True" basic="True" value="268435456" />
+				<property name="DATAGRIDVIEWSTATE2_currentCellWantsInputKey" category="Private" type="1" kind="4" selected="True" basic="True" value="8192" />
+				<property name="DATAGRIDVIEWSTATE2_discardEditingControl" category="Private" type="1" kind="4" selected="True" basic="True" value="536870912" />
+				<property name="DATAGRIDVIEWSTATE2_enableHeadersVisualStyles" category="Private" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="DATAGRIDVIEWSTATE2_ignoreCursorChange" category="Private" type="1" kind="4" selected="True" basic="True" value="2097152" />
+				<property name="DATAGRIDVIEWSTATE2_inBindingContextChanged" category="Private" type="1" kind="4" selected="True" basic="True" value="16777216" />
+				<property name="DATAGRIDVIEWSTATE2_initializing" category="Private" type="1" kind="4" selected="True" basic="True" value="524288" />
+				<property name="DATAGRIDVIEWSTATE2_messageFromEditingCtrls" category="Private" type="1" kind="4" selected="True" basic="True" value="134217728" />
+				<property name="DATAGRIDVIEWSTATE2_mouseEnterExpected" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="DATAGRIDVIEWSTATE2_mouseOverRemovedEditingCtrl" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="DATAGRIDVIEWSTATE2_mouseOverRemovedEditingPanel" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="DATAGRIDVIEWSTATE2_nextMouseUpIsDouble" category="Private" type="1" kind="4" selected="True" basic="True" value="8388608" />
+				<property name="DATAGRIDVIEWSTATE2_raiseSelectionChanged" category="Private" type="1" kind="4" selected="True" basic="True" value="262144" />
+				<property name="DATAGRIDVIEWSTATE2_replacedCellReadOnly" category="Private" type="1" kind="4" selected="True" basic="True" value="131072" />
+				<property name="DATAGRIDVIEWSTATE2_replacedCellSelected" category="Private" type="1" kind="4" selected="True" basic="True" value="65536" />
+				<property name="DATAGRIDVIEWSTATE2_rightToLeftMode" category="Private" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="DATAGRIDVIEWSTATE2_rightToLeftValid" category="Private" type="1" kind="4" selected="True" basic="True" value="4096" />
+				<property name="DATAGRIDVIEWSTATE2_rowsCollectionClearedInSetCell" category="Private" type="1" kind="4" selected="True" basic="True" value="4194304" />
+				<property name="DATAGRIDVIEWSTATE2_showCellErrors" category="Private" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="DATAGRIDVIEWSTATE2_showCellToolTips" category="Private" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="DATAGRIDVIEWSTATE2_showColumnRelocationInsertion" category="Private" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="DATAGRIDVIEWSTATE2_showEditingIcon" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="DATAGRIDVIEWSTATE2_showRowErrors" category="Private" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="DATAGRIDVIEWSTATE2_stopRaisingHorizontalScroll" category="Private" type="1" kind="4" selected="True" basic="True" value="32768" />
+				<property name="DATAGRIDVIEWSTATE2_stopRaisingVerticalScroll" category="Private" type="1" kind="4" selected="True" basic="True" value="16384" />
+				<property name="DATAGRIDVIEWSTATE2_usedFillWeightsDirty" category="Private" type="1" kind="4" selected="True" basic="True" value="67108864" />
+				<property name="defaultAdvancedCellBorderStyle" category="Private" type="2" kind="4" selected="True" basic="True" value="Single" />
+				<property name="defaultAdvancedColumnHeadersBorderStyle" category="Private" type="2" kind="4" selected="True" basic="True" value="OutsetPartial" />
+				<property name="defaultAdvancedRowHeadersBorderStyle" category="Private" type="2" kind="4" selected="True" basic="True" value="OutsetPartial" />
+				<property name="defaultBorderStyle" category="Private" type="2" kind="4" selected="True" basic="True" value="FixedSingle" />
+				<property name="defaultColumnHeadersHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="23" />
+				<property name="defaultEditMode" category="Private" type="2" kind="4" selected="True" basic="True" value="EditOnKeystrokeOrF2" />
+				<property name="defaultRowHeadersWidth" category="Private" type="1" kind="4" selected="True" basic="True" value="41" />
+				<property name="defaultSelectionMode" category="Private" type="2" kind="4" selected="True" basic="True" value="RowHeaderSelect" />
+				<property name="editMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="EditOnKeystrokeOrF2" />
+				<property name="height_2" category="Private" type="1" kind="4" selected="True" basic="True" value="887" />
+				<property name="horizontalOffset_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="ignoreWmImeNotify_2" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="ImeCharsToIgnoreDisabled" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="ImeCharsToIgnoreEnabled" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="inBulkLayoutCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="inBulkPaintCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="inCrossThreadSafeCall" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="inPerformLayoutCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="invalidDataGridViewAutoSizeRowCriteriaInternalMask" category="Private" type="2" kind="4" selected="True" basic="True" value="-4" />
+				<property name="lastColSplitBar" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="lastHeaderShadow" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="lastRowSplitBar" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="layoutSuspendCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="maxHeadersThickness" category="Private" type="1" kind="4" selected="True" basic="True" value="32768" />
+				<property name="maxTTDISPINFOBufferLength" category="Private" type="1" kind="4" selected="True" basic="True" value="80" />
+				<property name="minimumColumnHeadersHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="minimumRowHeadersWidth" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="mouseBarOffset" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="mouseWheelInit" category="Private" type="3" kind="4" selected="True" basic="True" value="True" />
+				<property name="mouseWheelMessage" category="Private" type="1" kind="4" selected="True" basic="True" value="522" />
+				<property name="mouseWheelRoutingNeeded" category="Private" type="3" kind="4" selected="True" basic="True" value="False" />
+				<property name="negOffset" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="newRowIndex_2" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="noAutoSizeCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="noDimensionChangeCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="noSelectionChangeCount_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="PaintLayerBackground" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="PaintLayerForeground" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="PropAccessibility" category="Private" type="1" kind="4" selected="True" basic="True" value="19" />
+				<property name="PropAccessibleDefaultActionDescription" category="Private" type="1" kind="4" selected="True" basic="True" value="17" />
+				<property name="PropAccessibleDescription" category="Private" type="1" kind="4" selected="True" basic="True" value="18" />
+				<property name="PropAccessibleHelpProvider" category="Private" type="1" kind="4" selected="True" basic="True" value="27" />
+				<property name="PropAccessibleName" category="Private" type="1" kind="4" selected="True" basic="True" value="21" />
+				<property name="PropAccessibleRole" category="Private" type="1" kind="4" selected="True" basic="True" value="22" />
+				<property name="PropActiveXImpl" category="Private" type="1" kind="4" selected="True" basic="True" value="24" />
+				<property name="propagatingImeMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Inherit" />
+				<property name="PropAmbientPropertiesService" category="Private" type="1" kind="4" selected="True" basic="True" value="37" />
+				<property name="PropAutoScrollOffset" category="Private" type="1" kind="4" selected="True" basic="True" value="29" />
+				<property name="PropBackBrush" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="PropBackColor" category="Private" type="1" kind="4" selected="True" basic="True" value="5" />
+				<property name="PropBackgroundImage" category="Private" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="PropBackgroundImageLayout" category="Private" type="1" kind="4" selected="True" basic="True" value="26" />
+				<property name="PropBindingManager" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="PropBindings" category="Private" type="1" kind="4" selected="True" basic="True" value="15" />
+				<property name="PropCacheTextCount" category="Private" type="1" kind="4" selected="True" basic="True" value="35" />
+				<property name="PropCacheTextField" category="Private" type="1" kind="4" selected="True" basic="True" value="36" />
+				<property name="PropContextMenu" category="Private" type="1" kind="4" selected="True" basic="True" value="11" />
+				<property name="PropContextMenuStrip" category="Private" type="1" kind="4" selected="True" basic="True" value="28" />
+				<property name="PropControlsCollection" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="PropControlVersionInfo" category="Private" type="1" kind="4" selected="True" basic="True" value="25" />
+				<property name="PropCurrentAmbientFont" category="Private" type="1" kind="4" selected="True" basic="True" value="3" />
+				<property name="PropCursor" category="Private" type="1" kind="4" selected="True" basic="True" value="12" />
+				<property name="PropDisableImeModeChangedCount" category="Private" type="1" kind="4" selected="True" basic="True" value="33" />
+				<property name="PropFont" category="Private" type="1" kind="4" selected="True" basic="True" value="7" />
+				<property name="PropFontHandleWrapper" category="Private" type="1" kind="4" selected="True" basic="True" value="9" />
+				<property name="PropFontHeight" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="PropForeColor" category="Private" type="1" kind="4" selected="True" basic="True" value="6" />
+				<property name="PropImeMode" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="PropImeWmCharsToIgnore" category="Private" type="1" kind="4" selected="True" basic="True" value="31" />
+				<property name="PropLastCanEnableIme" category="Private" type="1" kind="4" selected="True" basic="True" value="34" />
+				<property name="PropName" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="PropNcAccessibility" category="Private" type="1" kind="4" selected="True" basic="True" value="20" />
+				<property name="PropPaintingException" category="Private" type="1" kind="4" selected="True" basic="True" value="23" />
+				<property name="PropRegion" category="Private" type="1" kind="4" selected="True" basic="True" value="13" />
+				<property name="PropRightToLeft" category="Private" type="1" kind="4" selected="True" basic="True" value="14" />
+				<property name="PropUseCompatibleTextRendering" category="Private" type="1" kind="4" selected="True" basic="True" value="30" />
+				<property name="PropUserData" category="Private" type="1" kind="4" selected="True" basic="True" value="10" />
+				<property name="requiredScaling_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="RequiredScalingEnabledMask" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="RequiredScalingMask" category="Private" type="1" kind="4" selected="True" basic="True" value="15" />
+				<property name="rowHeadersWidth_2" category="Private" type="1" kind="4" selected="True" basic="True" value="41" />
+				<property name="rowHeadersWidthSizeMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="EnableResizing" />
+				<property name="scrollBars_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Both" />
+				<property name="selectionMode_2" category="Private" type="2" kind="4" selected="True" basic="True" value="FullRowSelect" />
+				<property name="sortOrder_2" category="Private" type="2" kind="4" selected="True" basic="True" value="Ascending" />
+				<property name="state" category="Private" type="1" kind="4" selected="True" basic="True" value="16908303" />
+				<property name="state2" category="Private" type="1" kind="4" selected="True" basic="True" value="2120" />
+				<property name="STATE2_BECOMINGACTIVECONTROL" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="STATE2_CLEARLAYOUTARGS" category="Private" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="STATE2_HAVEINVOKED" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="STATE2_INPUTCHAR" category="Private" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="STATE2_INPUTKEY" category="Private" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="STATE2_ISACTIVEX" category="Private" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="STATE2_LISTENINGTOUSERPREFERENCECHANGED" category="Private" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="STATE2_SETSCROLLPOS" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="STATE2_UICUES" category="Private" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="tabIndex_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="threadCallbackMessage" category="Private" type="1" kind="4" selected="True" basic="True" value="49885" />
+				<property name="toolTipCaption" category="Private" type="2" kind="4" selected="True" basic="True" value="" />
+				<property name="trackColAnchor" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="trackColumn" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="trackColumnEdge" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="trackRow" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="trackRowAnchor" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="trackRowEdge" category="Private" type="1" kind="4" selected="True" basic="True" value="-1" />
+				<property name="uiCuesState" category="Private" type="1" kind="4" selected="True" basic="True" value="17" />
+				<property name="UISTATE_FOCUS_CUES_HIDDEN" category="Private" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="UISTATE_FOCUS_CUES_MASK" category="Private" type="1" kind="4" selected="True" basic="True" value="15" />
+				<property name="UISTATE_FOCUS_CUES_SHOW" category="Private" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="UISTATE_KEYBOARD_CUES_HIDDEN" category="Private" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="UISTATE_KEYBOARD_CUES_MASK" category="Private" type="1" kind="4" selected="True" basic="True" value="240" />
+				<property name="UISTATE_KEYBOARD_CUES_SHOW" category="Private" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="updateCount" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="upperSize" category="Private" type="1" kind="4" selected="True" basic="True" value="8388607" />
+				<property name="verticalOffset_2" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="width_2" category="Private" type="1" kind="4" selected="True" basic="True" value="1516" />
+				<property name="WM_GETCONTROLNAME" category="Private" type="1" kind="4" selected="True" basic="True" value="49787" />
+				<property name="WM_GETCONTROLTYPE" category="Private" type="1" kind="4" selected="True" basic="True" value="49791" />
+				<property name="x" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="y" category="Private" type="1" kind="4" selected="True" basic="True" value="0" />
+				<property name="STATE_ALLOWDROP" category="Protected" type="1" kind="4" selected="True" basic="True" value="64" />
+				<property name="STATE_CAUSESVALIDATION" category="Protected" type="1" kind="4" selected="True" basic="True" value="131072" />
+				<property name="STATE_CHECKEDHOST" category="Protected" type="1" kind="4" selected="True" basic="True" value="16777216" />
+				<property name="STATE_CREATED" category="Protected" type="1" kind="4" selected="True" basic="True" value="1" />
+				<property name="STATE_CREATINGHANDLE" category="Protected" type="1" kind="4" selected="True" basic="True" value="262144" />
+				<property name="STATE_DISPOSED" category="Protected" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="STATE_DISPOSING" category="Protected" type="1" kind="4" selected="True" basic="True" value="4096" />
+				<property name="STATE_DOUBLECLICKFIRED" category="Protected" type="1" kind="4" selected="True" basic="True" value="67108864" />
+				<property name="STATE_DROPTARGET" category="Protected" type="1" kind="4" selected="True" basic="True" value="128" />
+				<property name="STATE_ENABLED" category="Protected" type="1" kind="4" selected="True" basic="True" value="4" />
+				<property name="STATE_EXCEPTIONWHILEPAINTING" category="Protected" type="1" kind="4" selected="True" basic="True" value="4194304" />
+				<property name="STATE_HOSTEDINDIALOG" category="Protected" type="1" kind="4" selected="True" basic="True" value="33554432" />
+				<property name="STATE_ISACCESSIBLE" category="Protected" type="1" kind="4" selected="True" basic="True" value="1048576" />
+				<property name="STATE_LAYOUTDEFERRED" category="Protected" type="1" kind="4" selected="True" basic="True" value="512" />
+				<property name="STATE_LAYOUTISDIRTY" category="Protected" type="1" kind="4" selected="True" basic="True" value="8388608" />
+				<property name="STATE_MIRRORED" category="Protected" type="1" kind="4" selected="True" basic="True" value="1073741824" />
+				<property name="STATE_MODAL" category="Protected" type="1" kind="4" selected="True" basic="True" value="32" />
+				<property name="STATE_MOUSEENTERPENDING" category="Protected" type="1" kind="4" selected="True" basic="True" value="8192" />
+				<property name="STATE_MOUSEPRESSED" category="Protected" type="1" kind="4" selected="True" basic="True" value="134217728" />
+				<property name="STATE_NOZORDER" category="Protected" type="1" kind="4" selected="True" basic="True" value="256" />
+				<property name="STATE_OWNCTLBRUSH" category="Protected" type="1" kind="4" selected="True" basic="True" value="2097152" />
+				<property name="STATE_PARENTRECREATING" category="Protected" type="1" kind="4" selected="True" basic="True" value="536870912" />
+				<property name="STATE_RECREATE" category="Protected" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="STATE_SIZELOCKEDBYOS" category="Protected" type="1" kind="4" selected="True" basic="True" value="65536" />
+				<property name="STATE_TABSTOP" category="Protected" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="STATE_THREADMARSHALLPENDING" category="Protected" type="1" kind="4" selected="True" basic="True" value="32768" />
+				<property name="STATE_TOPLEVEL" category="Protected" type="1" kind="4" selected="True" basic="True" value="524288" />
+				<property name="STATE_TRACKINGMOUSEEVENT" category="Protected" type="1" kind="4" selected="True" basic="True" value="16384" />
+				<property name="STATE_USEWAITCURSOR" category="Protected" type="1" kind="4" selected="True" basic="True" value="1024" />
+				<property name="STATE_VALIDATIONCANCELLED" category="Protected" type="1" kind="4" selected="True" basic="True" value="268435456" />
+				<property name="STATE_VISIBLE" category="Protected" type="1" kind="4" selected="True" basic="True" value="2" />
+				<property name="STATE2_INTERESTEDINUSERPREFERENCECHANGED" category="Protected" type="1" kind="4" selected="True" basic="True" value="8" />
+				<property name="STATE2_MAINTAINSOWNCAPTUREMODE" category="Protected" type="1" kind="4" selected="True" basic="True" value="16" />
+				<property name="STATE2_USEPREFERREDSIZECACHE" category="Protected" type="1" kind="4" selected="True" basic="True" value="2048" />
+				<property name="UseCompatibleTextRenderingDefault" category="Protected" type="3" kind="4" selected="True" basic="True" value="False" />
+			</properties>
+			<children />
+		</child>
+	</children>
+</Root>
