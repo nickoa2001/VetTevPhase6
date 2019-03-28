@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{C19EA535-E493-4708-BC59-0A9BEF5522F0}">
+	<children>
+		<child name="VetTev" key="{28CA8197-6108-499D-A715-97D4B6182AC4}" path="VetTev\VetTev.mds" />
+	</children>
+	<testItems key="{BF785507-BAC3-4F1C-9E3A-1767669BF476}">
+		<children>
+			<testItem key="{28CA8197-6108-499D-A715-97D4B6182AC4}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{92FEC195-9B3D-468B-9840-3DBB6BC1A334}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{17694B56-2562-4C92-A276-ECFD56660F13}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>
