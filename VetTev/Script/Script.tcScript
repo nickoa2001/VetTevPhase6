@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Commons">
+			<child name="CommonFiles" key="{2912EEC3-AA9F-4A85-885B-D87DA6E4D200}" path="CommonFiles.js" />
+			<child name="CommonDictionary" key="{2650D198-747F-4DD8-BE46-C5C2865653D8}" path="CommonDictionary.js" />
+			<child name="CommonReporting" key="{70DA1F80-13DC-452B-A6AD-6F9AA0225D0C}" path="CommonReporting.js" />
+			<child name="CommonObjects" key="{978F67D7-7143-4298-9FC7-F98979774868}" path="CommonObjects.js" />
+			<child name="CommonTextControl" key="{7887E225-031A-4192-B4D5-C4A4AA6071C1}" path="CommonTextControl.js" />
+			<child name="CommonData" key="{FC65553A-68B3-4039-B6BA-53C4A6959265}" path="CommonData.js" />
+			<child name="CommonApplication" key="{23F6B4DC-F8D9-4424-855A-6EE56DD3DE27}" path="CommonApplication.js" />
+			<child name="CommonComboBox" key="{4DDEE768-C277-4094-800D-C283031CC44B}" path="CommonComboBox.js" />
+		</folder>
+		<folder name="Business">
+			<child name="CustomersData" key="{7347BF37-A613-4390-BEED-4BFDE8277A6D}" path="CustomersData.js" />
+			<child name="Customers" key="{E9B59A8E-BFD8-4219-AABB-3113F8C4E203}" path="Customers.js" />
+			<child name="MenuBar" key="{0666498A-A8C2-4D3F-97D9-64477B216211}" path="MenuBar.js" />
+			<child name="Animals" key="{4319C4DE-E21C-4E66-AC9C-F53CC59698F4}" path="Animals.js" />
+			<child name="AnimalsData" key="{84372B8E-20FC-44D9-A0E2-299462A795FB}" path="AnimalsData.js" />
+		</folder>
+		<folder name="TestCases">
+			<child name="ST01_CreateNewCustomer" key="{3F590A86-6447-4E6D-B140-9FB576CE98E0}" path="ST01_CreateNewCustomer.js" />
+			<child name="ST02_CreateTwoNewCustomers_UsingDictionaries" key="{FB7103A5-A21D-40B5-A941-49735E3D6467}" path="ST02_CreateTwoNewCustomers_UsingDictionaries.js" />
+			<child name="ST03_CreateNewAnimalEntry" key="{90A2A953-C45D-4AC3-B644-8D3465675B91}" path="ST03_CreateNewAnimalEntry.js" />
+		</folder>
+	</children>
+</Root>

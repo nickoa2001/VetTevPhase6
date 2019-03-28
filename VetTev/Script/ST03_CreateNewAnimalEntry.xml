@@ -1,0 +1,12 @@
+ <TestCase>
+   <TestStep id="AddAnimalEntry">
+    <Dictionary id="Animal">
+      <OwnerName>Oprean Natasha</OwnerName>
+      <AnimalName>Colt</AnimalName>
+	  <Breed>Labrador</Breed>
+	  <Sex>Male</Sex>
+	  <Sterilized>Yes</Sterilized>
+	  <Note>White dog</Note>
+    </Dictionary>
+  </TestStep>
+</TestCase>

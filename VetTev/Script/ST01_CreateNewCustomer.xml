@@ -1,0 +1,12 @@
+ <TestCase>
+   <TestStep id="FirstCustomer">
+    <Dictionary id="Customer">
+      <Name>1001</Name>
+      <Surname>SKY</Surname>
+      <Phone>limit</Phone>
+      <Email>1355</Email>
+      <City>ULLINK</City>
+      <Street>Assisted1</Street>      
+    </Dictionary>
+  </TestStep>
+  </TestCase>

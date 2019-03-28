@@ -1,0 +1,22 @@
+ <TestCase>
+   <TestStep id="FirstCustomer">
+    <Dictionary id="Customer">
+      <Name>Natasha</Name>
+      <Surname>Oprean</Surname>
+      <Phone>074568798</Phone>
+      <Email>natasha.oprean@gmail.com</Email>
+      <City>Cluj-Napoca</City>
+      <Street>Dunarii</Street>      
+    </Dictionary>
+  </TestStep>
+  <TestStep id="SecondCustomer">
+    <Dictionary id="Customer">
+	  <Name>Sanziana</Name>
+      <Surname>Boanca</Surname>
+      <Phone>0722238798</Phone>
+      <Email>sanziana.boanca@gmail.com</Email>
+      <City>Cluj-Napoca</City>
+      <Street>Oltului</Street>         
+    </Dictionary>
+  </TestStep>
+  </TestCase>
