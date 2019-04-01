@@ -8,3 +8,5 @@ build/
 *.tcLogs
 Log/
 *.bak
+
+*.tcVis
