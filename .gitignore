@@ -1,0 +1,10 @@
+.gradle/
+dependencies/jars/
+*META-INF*
+build/
+*.tcLS
+*.~tc
+*.tcCfgExtender
+*.tcLogs
+Log/
+*.bak

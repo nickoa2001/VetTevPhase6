@@ -97,5 +97,8 @@
 		<child name="Animals_TextBox_AnimalName" key="{18380D52-0B38-40D1-A47E-43C533698A9F}">
 			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_TextBox_AnimalName" ID="{18380D52-0B38-40D1-A47E-43C533698A9F}" FileName="Objects\Animals_TextBox_AnimalName.tcObject" Update="False" />
 		</child>
+		<child name="Animals_TextBox_Notes" key="{B15F3B3F-855D-40E8-8E43-B65DAFB43A89}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="14.0" caption="Animals_TextBox_Notes" ID="{B15F3B3F-855D-40E8-8E43-B65DAFB43A89}" FileName="Objects\Animals_TextBox_Notes.tcObject" Update="False" />
+		</child>
 	</children>
 </Root>

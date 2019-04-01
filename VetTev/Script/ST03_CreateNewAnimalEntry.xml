@@ -4,9 +4,15 @@
       <OwnerName>Oprean Natasha</OwnerName>
       <AnimalName>Colt</AnimalName>
 	  <Breed>Labrador</Breed>
-	  <Sex>Male</Sex>
-	  <Sterilized>Yes</Sterilized>
-	  <Note>White dog</Note>
+	  <Gender>Male</Gender>
+	  <Sterilized>false</Sterilized>
+	  <Note>White dog not sterilized</Note>
     </Dictionary>
+  </TestStep>
+  <TestStep id="ChangeAnimalData">
+    <Dictionary id="Animal">
+      <Sterilized>true</Sterilized>
+	  <Note>Animal is sterilized</Note>
+	</Dictionary>
   </TestStep>
 </TestCase>

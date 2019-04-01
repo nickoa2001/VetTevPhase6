@@ -22,23 +22,35 @@ function ST03_CreateNewAnimalEntry()
   
   Log_CurrentStep("Step 3: Click New button and fill in the Animal details");
   Animals_ClickButtonNew();
-  Log_CurrentStep("Step 3.1: Insert animal breed");
+  
+  Log_CurrentStep("Step 3.1: Insert animal name");
   //let animalRandomName = Math.floor((Math.random() * 1000) + 1);
+  //Animals_FillAnimalName(animalRandomName)
+  Animals_FillAnimalName(AnimalsData_GetParameter("AnimalName"));
+  
+  Log_CurrentStep("Step 3.2: Select animal gender");
+  Animals_SelectGender("M");
+  Animals_SelectGender("F");
+  Animals_SelectGender("m");
+  Animals_SelectGender();
+  Animals_SelectGender(AnimalsData_GetParameter("Gender"));
+  
+  Log_CurrentStep("Step 3.3: Fill animal breed");
   //Animals_FillBreed("*Labrador*");
   Animals_FillBreed(AnimalsData_GetParameter("Breed"));
+    
+  Log_CurrentStep("Step 3.4: Detail first that animal is not sterlized");
+  Animals_IsAnimalSterilized(AnimalsData_GetParameter("Sterilized"));
+  Animals_AddNotes(AnimalsData_GetParameter("Note"));
   
-  Log_CurrentStep("Step 3.2: Insert animal sex");
-  Animals_SelectSex("M");
-  Animals_SelectSex("F");
-  Animals_SelectSex("m");
-  Animals_SelectSex();
-  Animals_SelectSex(AnimalsData_GetParameter("Sex"));
+  Log_CurrentStep("Step 4: Mark the animal as sterilized and add a note about this");
+  AnimalsData_UpdateDictionaryFromXML("ST03_CreateNewAnimalEntry", "ChangeAnimalData")
+  Animals_IsAnimalSterilized(AnimalsData_GetParameter("Sterilized"));
+  Animals_AddNotes(AnimalsData_GetParameter("Note"));
   
-  Log_CurrentStep("Step 3.3: Insert the rest of animal details");
-  Animals_FillBreed(AnimalsData_GetParameter("Breed"));
-  Animals_FillAnimalName(AnimalsData_GetParameter("AnimalName"));
+  Log_CurrentStep("Step 5: Save last added animal details");
   Animals_ClickButtonSave();
   
-  Log_CurrentStep("Step 4: Close the application and store results");
+  Log_CurrentStep("Step 5: Close the application and store results");
   CommonReporting.Log_CurrentTestCaseStatusPass();
 }

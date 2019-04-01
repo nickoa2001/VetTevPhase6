@@ -1,5 +1,6 @@
 ﻿//USEUNIT CommonObjects
-var applicationPath = "d:\\Work\\WorkShop\\VetTev\\";
+var applicationPath = "g:\\Workshop\\vettev\\Application\\VetTev\\";
+
 
 function CommonApplication_StartApplication(timeout)
 {

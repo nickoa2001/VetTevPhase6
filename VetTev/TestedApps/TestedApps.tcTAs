@@ -7,10 +7,10 @@
 		<child key="{ECFE53D0-F483-4A2B-A233-3B3369B6D7BC}">
 			<config nodeName="vettev" autorunOnRecording="True" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
 				<runModeParams activeRunMode="Simple">
-					<param name="RunAs" parameters="" workFolder="D:\Work\WorkShop\VetTev" userName="" password="" domain="" />
-					<param name="Profile" parameters="" workFolder="D:\Work\WorkShop\VetTev" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
-					<param name="Debug" parameters="" workFolder="D:\Work\WorkShop\VetTev" />
-					<param name="Simple" fileName="vettev.exe" filePath="D:\Work\WorkShop\VetTev\" parameters="" workFolder="D:\Work\WorkShop\VetTev" />
+					<param name="RunAs" parameters="" workFolder="g:\Workshop\vettev\Application\VetTev" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="g:\Workshop\vettev\Application\VetTev" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="g:\Workshop\vettev\Application\VetTev" />
+					<param name="Simple" fileName="vettev.exe" filePath="g:\Workshop\vettev\Application\vettev\" parameters="" workFolder="g:\Workshop\vettev\Application\VetTev" />
 				</runModeParams>
 			</config>
 			<testData />

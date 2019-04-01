@@ -64,14 +64,34 @@ function Animals_FillAnimalName(animalName)
   CommonTextControl.TextBox_Type(Objects.Animals_TextBox_AnimalName, animalName);  
 }
 
-function Animals_SelectSex(sex)
+function Animals_SelectGender(gender)
 {
-  if (sex == null) return;
+  if (gender == null) return;
   else 
-    if (sex == "M" || sex == "m" || sex == "Male") 
+    if (gender == "M" || gender == "m" || gender == "Male") 
       CommonObjects_RadioButtonClick(Objects.Animals_RadioButton_SexMale)
   else
     CommonObjects_RadioButtonClick(Objects.Animals_RadioButton_SexFemale)
+}
+
+function Animals_IsAnimalSterilized(isSterilized)
+{
+  if (isSterilized == null) return;
+  
+  if (isSterilized == "true") 
+    CommonObjects_RadioButtonClick(Objects.Animals_RadioButton_SterilizedYes)
+  else
+    CommonObjects_RadioButtonClick(Objects.Animals_RadioButton_SterilizedNo)
+}
+
+function Animals_AddNotes(newNote)
+{
+  if (newNote == null) return;
+  let existingNote = CommonTextControl.TextBox_GetText(Objects.Animals_TextBox_Notes);
+  let currentTime = aqConvert.DateTimeToFormatStr(aqDateTime.Now(), "%Y/%m/%d/%H:%M");
+  
+  newNote = existingNote + "New Note on" + currentTime + ": " + newNote;
+  TextBox_Type(Objects.Animals_TextBox_Notes, newNote);    
 }
 
 function Animals_GetButtonEnabledProperty(buttonObject)

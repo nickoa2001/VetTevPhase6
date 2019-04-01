@@ -17,7 +17,7 @@ function AnimalsData_CreateAnimalDictionary()
   CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "OwnerName");
   CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "AnimalName");
   CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "Breed");
-  CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "Sex");
+  CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "Gender");
   CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "BirthDate");
   CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "DeathDate");
   CommonDictionary.Dictionary_AddElementToDictionary(animalDataDictionary, "Sterilized");
