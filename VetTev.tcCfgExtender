@@ -23,11 +23,7 @@
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
 				<Prp name="activity" type="S" value="{90A2A953-C45D-4AC3-B644-8D3465675B91}"/>
 			</Node>
-			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
-				<Node name="{0babbef5-9fc3-4b74-9bfc-fc912f02a324}">
-					<Prp name="hash" type="I" value="1"/>
-				</Node>
-			</Node>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
@@ -70,6 +66,8 @@
 					</Node>
 					<Node name="10">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{28745FE1-57F9-41E2-B51C-EAC77B4AE134}"/>
 							<Prp name="focused" type="S" value="{F0947D21-52D0-438D-AB03-DC04BFC1291E}"/>
 						</Node>
@@ -153,6 +151,8 @@
 					</Node>
 					<Node name="6">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{C034BB09-3C5C-48CE-ABCA-34DC3B7DB228}"/>
 							<Prp name="focused" type="S" value="{6810AD1A-8523-4258-890E-08372E51507A}"/>
 						</Node>
@@ -160,6 +160,8 @@
 					</Node>
 					<Node name="7">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{E5D3C118-A58A-4A0D-B502-731E0F3E14BE}"/>
 							<Prp name="focused" type="S" value="{ACEF51E3-84B2-4E53-94E1-6EA3F35F0E62}"/>
 						</Node>
@@ -167,6 +169,8 @@
 					</Node>
 					<Node name="8">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{4A8B3709-6A17-4EE6-9B99-8F4781E3DDF7}"/>
 							<Prp name="focused" type="S" value="{E5787C20-7B4A-42F1-BD3F-A7EDA4D42D60}"/>
 						</Node>
@@ -174,6 +178,8 @@
 					</Node>
 					<Node name="9">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{68A1B307-C1DB-4400-8449-B11CE34FC5C6}"/>
 							<Prp name="focused" type="S" value="{53C4CBE6-0230-46BA-A1FB-79DCA4BCC969}"/>
 						</Node>
@@ -1395,7 +1401,9 @@
 						<Node name="testedapps"/>
 					</Node>
 				</Node>
-				<Node name="vettev logs"/>
+				<Node name="vettev logs">
+					<Node name="vettev logs"/>
+				</Node>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>

@@ -2,11 +2,13 @@
 dependencies/jars/
 *META-INF*
 build/
+Log/
 *.tcLS
 *.~tc
 *.tcCfgExtender
 *.tcLogs
-Log/
 *.bak
 
-*.tcVis
+**/*.tcVis
+
+*.tcCfgExtender

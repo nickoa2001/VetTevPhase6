@@ -90,7 +90,7 @@ function Animals_AddNotes(newNote)
   let existingNote = CommonTextControl.TextBox_GetText(Objects.Animals_TextBox_Notes);
   let currentTime = aqConvert.DateTimeToFormatStr(aqDateTime.Now(), "%Y/%m/%d/%H:%M");
   
-  newNote = existingNote + "New Note on" + currentTime + ": " + newNote;
+  newNote = existingNote + "New Note on " + currentTime + ": " + newNote + "\r\n";
   TextBox_Type(Objects.Animals_TextBox_Notes, newNote);    
 }
 

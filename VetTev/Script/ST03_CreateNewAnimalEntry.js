@@ -51,6 +51,6 @@ function ST03_CreateNewAnimalEntry()
   Log_CurrentStep("Step 5: Save last added animal details");
   Animals_ClickButtonSave();
   
-  Log_CurrentStep("Step 5: Close the application and store results");
+  Log_CurrentStep("Step 6: Close the application and store results");
   CommonReporting.Log_CurrentTestCaseStatusPass();
 }
